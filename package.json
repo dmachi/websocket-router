@@ -1,0 +1,12 @@
+{
+	"name": "websocket-router",
+	"mappings": {
+		"commonjs-utils": "jar:http://github.com/kriszyp/commonjs-utils/zipball/master!/lib/",
+		"promised-io": "jar:http://github.com/kriszyp/promised-io/zipball/master!/lib/",
+		"node-websocket-server": "jar:http://github.com/dmachi/node-websocket-server/zipball/master!/lib/ws/",
+		"tunguska": "jar:http://github.com/kriszyp/tunguska/zipball/master!/lib/"
+	},
+	"version": "0.1",
+	"description": "An example package for web-modules",
+	"author": "Dustin Machi"
+}
